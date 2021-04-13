@@ -29,7 +29,7 @@ function App(){
 
 function Loader(){
     return (
-        <div class="loader loader-default is-active" data-text="Just a sec..."></div>
+        <div class="loader loader-default is-active" data-text="Just a sec..." data-blink></div>
     );   
 }
 
